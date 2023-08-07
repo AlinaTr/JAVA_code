@@ -18,3 +18,4 @@ public class WhileLoop {
         System.out.println("STOP! Nu mai avem benzina");
     }
 }
+
